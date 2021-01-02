@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
+body{
+    font-family: 'Major Mono Display', monospace;
+    background-color: black;
+    color: greenyellow;
+}
+
+
+#img{
+    width: 50%;
+    height: 50%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 3%;
+  border-color: greenyellow;
+}
+
+#gw{
+    height: 200px;
+    width: 400px;
+    position: absolute; top: 350px; left: 1000px;
+    border-radius: 50%;
+}
+
+.dropbtn{
+    background-color: green;
+}
